@@ -1,4 +1,4 @@
-Entity,Code,Year,cost_per_kg,launch_class
+Entity,Code,Year,Cost Per KG,Launch Class
 Angara,,2014,4500,Heavy
 Antares,,2013,13600,Medium
 Ariane 44,,1988,18300,Medium
@@ -38,7 +38,7 @@ Long March 5,,2016,7900,Heavy
 M-V,,1997,45800,Small
 Minotaur I,,2000,73100,Small
 Minotaur IV,,2010,30500,Small
-PSLV,,1994,8500,Medium
+PSLV,,1994,8500,Mediumlaunch_class
 Pegasus,,1990,41100,Small
 Pegasus XL,,1996,50600,Small
 Proton,,1965,8200,Heavy
